@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GetLongInputTest
+comment0.text=\r\n\ @author\ Yang\ on\ 01/20/2019.\r\n
+comment1.params=
+comment1.target=void\ test1()
+comment2.params=
+comment2.target=void\ test2()
+comment3.params=
+comment3.target=void\ test3()
+comment4.params=
+comment4.target=void\ test5()
+comment5.params=
+comment5.target=void\ test6()
+comment6.params=
+comment6.target=void\ test7()
+comment7.params=input\ expected
+comment7.target=void\ test(java.lang.String,\ java.lang.Long)
+comment8.params=inputString
+comment8.target=IOConsole\ getConsoleWithBufferedInput(java.lang.String)
+numComments=9
